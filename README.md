@@ -1,6 +1,8 @@
 # USFB Project
 **Construct Sentiment Score with Facebook Comments on US Politics**
 
+This project leverages the power of deep learning! State-of-the-art models (BERTs) are adopted for NLP and sentiment extraction from texts.
+
 ## Overview
 **Project Goal**:<br>
 Propose a way to construct sentiment score with respect to social media comments
@@ -11,7 +13,7 @@ In this project, I was dedicated to building a recipe for extracting sentiment s
 Special thanks to [Prof. Ming-jen Lin](https://econ.ntu.edu.tw/zh_tw/people/faculty0/faculty1/%E6%9E%97-%E6%98%8E%E4%BB%81-73113963) for providing me with this amazing opportunity to conduct a hands-on, end-to-end, interesting as well as challenging standalone project.
 
 **Project Result**:<br>
-Three types of Sentiment Score are contructed:
+Three types of Sentiment Score are constructed:
 * Aspect-based Sentiment - Scores on joy, love, surprise, sadness, anger, fear
 * Binary Sentiment Labels - POSITIVE or NEGATIVE
 * Continuous Sentiment Scores - A score between -1 and +1, indicating a sentiment spectrum from negative to positive emotions
