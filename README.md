@@ -17,8 +17,12 @@ Three types of Sentiment Score are constructed:
 * Aspect-based Sentiment - Scores on joy, love, surprise, sadness, anger, fear
 * Binary Sentiment Labels - POSITIVE or NEGATIVE
 * Continuous Sentiment Scores - A score between -1 and +1, indicating a sentiment spectrum from negative to positive emotions
-
-(graphs)
+<br><br><br>
+![](/images/aspect_based_trump.png)
+<br><br>
+![](/images/aspect_based_hillary.png)
+<br><br>
+![](/images/social_listener_continuous.png)
 
 
 ## Details
