@@ -28,7 +28,7 @@ Three types of Sentiment Score are constructed:
 ## Details
 **Directories**:
 * [USFB_quick_results](/USFB_quick_results.pdf): A quick walkthrough for this project
-* [USFB_full_presentation](/USFB_full_presentation): An extremely detailed presentation on how this project was done from end to end
+* [USFB_full_presentation](/USFB_full_presentation.pdf): An extremely detailed presentation on how this project was done from end to end
 * [code](/code)
   * [preprocessing](/code/preprocessing.ipynb)
   * [EDA](/code/EDA.ipynb)
