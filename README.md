@@ -8,7 +8,7 @@ This project leverages the power of deep learning! State-of-the-art models (BERT
 Propose a way to construct sentiment score with respect to social media comments
 
 **High-level description**:<br>
-In this project, I was dedicated to building a recipe for extracting sentiment scores out of Facebook comments. These scores would then be used to accomplish other downstream tasks, mainly econometric analyses such as analyzing the social impact of Trump making an indiscreet remark. The sentiment scores serve as an important outcome on regression analyses expected to be conducted by graduates in the Economics Department in NTU.
+In this project, I was dedicated to building a recipe for extracting sentiment scores out of Facebook comments. These scores would then be used to accomplish other downstream tasks, mainly econometric analyses such as analyzing the social impact of Trump making an indiscreet remark (for example). The sentiment scores serve as an important outcome on regression analyses expected to be conducted by graduates in the Economics Department in NTU.
 
 Special thanks to [Prof. Ming-jen Lin](https://econ.ntu.edu.tw/zh_tw/people/faculty0/faculty1/%E6%9E%97-%E6%98%8E%E4%BB%81-73113963) for providing me with this amazing opportunity to conduct a hands-on, end-to-end, interesting as well as challenging standalone project.
 
