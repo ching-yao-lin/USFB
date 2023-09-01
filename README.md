@@ -1,4 +1,4 @@
-# Facebook Sentiment Amalysis (SA) Project
+# Facebook Sentiment Analysis (SA) Project
 **Construct Sentiment Score with Facebook Comments on US Politics**
 
 This project leverages the power of deep learning! State-of-the-art models (BERTs) are adopted for NLP and sentiment extraction from texts.
