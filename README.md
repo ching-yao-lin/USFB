@@ -3,6 +3,8 @@
 
 This project leverages the power of deep learning! State-of-the-art models (BERTs) are adopted for NLP and sentiment extraction from texts.
 
+Skills: Python, Huggingface, spaCy, pandas, numpy, matplotlib, matplotlib, scikit learn
+
 ## Overview
 **Project Goal**:<br>
 Propose a way to construct sentiment score with respect to social media comments
